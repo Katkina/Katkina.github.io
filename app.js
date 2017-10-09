@@ -1,4 +1,3 @@
-https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.js
 fetch('https://restcountries.eu/rest/v2/all')
 .then(getJsonResponse)
 .then(chartData)
